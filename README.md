@@ -1,11 +1,13 @@
-<h3 align="center"> Hi there, I'm Zeeshan Ahmad. </h3>
-A noob developer 🖥️ from Pakistan.<br>
-- 📱 Buildbot for MediaTek devices.<br>
-- 🐍 Trying to learn Python3, C, C++ and Java <br>
-- 📦 Love to play around with kernels.<br>
-- 📫 How to reach me: You may contact me on <a href="https://t.me/itexpert120">Telegram</a> 
+<h3>[itexpert120@github:~]$ # Hi there, I'm Zeeshan Ahmad. </h3>
 
-- 😄 Pronouns: he/him/his<br>
+[itexpert120@github:~]$ help --info
+> A big noob in computing with a keen interest in programming.
+> Currently stu*dying* for admission in BS CS in any uni.
+
+[itexpert120@github:~]$ help --contact
+instagram: anish.sachdeva_
+github: anishLearnsToCode
+mail: itexpert120@gmail.com
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ditexpert120&longCache=true)](https://github.com/itexpert120)
 
