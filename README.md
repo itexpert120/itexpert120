@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, I'm Zeeshan Ahmad. </h3>
 A noob developer 🖥️ from Pakistan.<br>
-- 📱 Buildbot for MediaTek devices.<br>
-- 🐍 Trying to learn Python3, C, C++ and Java <br>
+- 📱 Buildbot for MT6768 Devices.<br>
+- 🐍 Trying to learn Many Languages<br>
 - 📦 Love to play around with kernels.<br>
 - 📫 How to reach me: You may contact me on <a href="https://t.me/itexpert120">Telegram</a> 
 
