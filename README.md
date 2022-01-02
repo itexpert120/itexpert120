@@ -11,5 +11,5 @@
 > github: itexpert120
 > telegram: itexpert120
 > twitter: itexpert120
-> mailto: itexpert120 [at] gmail.com
+> mailto: itexpert120@gmail.com
 ````
