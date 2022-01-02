@@ -1,8 +1,8 @@
 ````bash
 > help --info
-> A student and greek mythology enthusianst who loves programming in many languages including C++, Java &
+> A student and greek mythology enthusianst who loves programming using many languages including C++, Java and
 > Python. Is a computer nerd and loves to play games. Likes solving problems on hackerrank and other sites.
-> Currently an undergrad@IUB batch of '21 studying computing systems engineering and learning programming.
+> Currently an undergrad@IUB batch of 2021 studying computing systems engineering and learning programming.
 ````
 
 ````bash
