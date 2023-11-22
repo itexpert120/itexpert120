@@ -3,7 +3,7 @@
 #### A Front-End Developer by day ☼ and a gamer by night ☾
 
 Front-End Developer at [Near Devhub](https://github.com/near/neardevhub-widgets);<br>
-`                 ` at [DiscoverBOS](https://github.com/nearbuilders/discoverbos);<br>
+Also at [DiscoverBOS](https://github.com/nearbuilders/discoverbos);<br>
 
 - ⚙️ I use daily: `.js`, `.jsx`, `.html`, `.css`,
 - 🌍 I'm mostly active within the **NEAR Ecosystem**
