@@ -1,15 +1,13 @@
-````bash
-> help --info
-> A student and greek mythology enthusianst who loves programming using many languages including C++, Java and
-> Python. Is a computer nerd and loves to play games. Likes solving problems on hackerrank and other sites.
-> Currently an undergrad@IUB batch of 2021 studying computing systems engineering and learning programming.
-````
+### Hello there 👋
 
-````bash
-> help --contact
-> instagram: @itexpert120
-> github: itexpert120
-> telegram: itexpert120
-> twitter: itexpert120
-> mailto: itexpert120@gmail.com
-````
+#### A Front-End Developer by day ☼ and a gamer by night ☾
+
+Front-End Developer at [Near Devhub](https://github.com/near/neardevhub-widgets);<br>
+`                 ` at [DiscoverBOS](https://github.com/nearbuilders/discoverbos);<br>
+
+- ⚙️ I use daily: `.js`, `.jsx`, `.html`, `.css`,
+- 🌍 I'm mostly active within the **NEAR Ecosystem**
+- 🌱 Learning all about **Open Source** and **React**
+- 💬 Ping me about **frontend**, **react**, **next.js**, **development**
+- 📫 Reach me: [twitter.com/itexpert120](https://twitter.com/itexpert120)
+- ⚡️ Fun fact: I like cats 🐈
