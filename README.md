@@ -4,7 +4,7 @@
 
 Software Developer at [NEARBuilders](https://github.com/nearbuilders);<br>
 
-- ⚙️ I use daily: `.js`, `.jsx`
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`
 - 🌍 I'm mostly active within the **NEAR Ecosystem**
 - 🌱 Learning all about **Open Source** and **React**
 - 💬 Ping me about **frontend**, **react**, **next.js**, **development**
