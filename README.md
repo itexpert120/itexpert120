@@ -1,5 +1,5 @@
 ### Hi, I'm Zeeshan Ahmad
 
-Software developer building on web, desktop, phone, and anything I find interesting.
+Software developer building apps for web, desktop, mobile, and whatever else I find interesting.
 
 [Resume](https://github.com/itexpert120/resume)
